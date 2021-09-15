@@ -4,7 +4,7 @@ const colors = require('colors');
 
 console.clear();
 console.log('**************************');
-console.log('       Tabla del 5'.red);
+console.log('       Tabla del 5'.green);
 
 console.log(argv.base)
 
